@@ -1,2 +1,0 @@
-# MyLymeGuide
-MyLymeGuide
